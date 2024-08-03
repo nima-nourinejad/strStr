@@ -5,3 +5,5 @@ def nimabani (n,b):
   for i in range(len (b)) :
     if n==b[i:(i+l)]:
       return i
+
+
