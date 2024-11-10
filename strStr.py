@@ -3,13 +3,6 @@ def nimabani (n,b):
     return -1
 
 
-
-
-
-
-
-
-
   l=len (n)
   for i in range(len (b)) :
     if n==b[i:(i+l)]:
